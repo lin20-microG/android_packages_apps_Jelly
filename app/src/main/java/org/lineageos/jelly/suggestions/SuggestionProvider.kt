@@ -54,6 +54,10 @@ enum class SuggestionProvider(private val encoding: String) {
         override fun createQueryUrl(query: String, language: String) =
             "https://www.google.com/complete/search?client=android&oe=utf8&ie=utf8&cp=4&xssi=t&gs_pcrt=undefined&hl=$language&q=$query"
     },
+    QWANT("UTF-8") {
+        override fun createQueryUrl(query: String,language: String) =
+            "https://api.qwant.com/api/suggest?q=$query&lang=$language"
+    },
     YAHOO("UTF-8") {
         override fun createQueryUrl(query: String, language: String) =
             "https://search.yahoo.com/sugg/chrome?output=fxjson&command=$query"
