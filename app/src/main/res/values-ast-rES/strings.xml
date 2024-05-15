@@ -41,7 +41,7 @@
     <string name="pref_looklock_title">LookLock</string>
     <string name="pref_looklock_summary">Evita qu\'otres aplicaciones llean el conteníu de Restolador</string>
     <string name="pref_js_title">JavaScript</string>
-    <string name="pref_js_summary">Activa JavaScript</string>
+    <string name="pref_js_summary">Activa\'l JavaScript</string>
     <string name="pref_location_title">Llocalización</string>
     <string name="pref_location_summary">Permite que los sitios web soliciten l\'accesu a la llocalización</string>
     <string name="pref_cookie_title">Cookies</string>
@@ -85,7 +85,7 @@
     <string name="ssl_cert_dialog_title">Detalles del certificáu SSL</string>
     <string name="ssl_cert_dialog_domain">Dominiu</string>
     <string name="ssl_cert_dialog_issued_to">Emitióse pa</string>
-    <string name="ssl_cert_dialog_issued_by">Emitíóse por</string>
+    <string name="ssl_cert_dialog_issued_by">Emitiéronlu</string>
     <string name="ssl_cert_dialog_validity">Periodu de validez</string>
     <string name="ssl_cert_dialog_common_name">Nome común (CN)</string>
     <string name="ssl_cert_dialog_organization">Organización (O)</string>

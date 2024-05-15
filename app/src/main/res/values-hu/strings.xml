@@ -5,16 +5,26 @@
 -->
 <resources>
     <string name="app_name">Böngésző</string>
+    <string name="url_bar_more">Továbbiak</string>
+    <string name="url_bar_search_cancel">A keresés leállítása</string>
+    <string name="url_bar_search_clear">A keresés törlése</string>
+    <string name="url_bar_search_previous">Előző</string>
+    <string name="url_bar_search_next">Következő</string>
+    <string name="menu_go_back">Visszalépés</string>
+    <string name="menu_go_forward">Továbblépés</string>
+    <string name="menu_refresh">Oldalfrissítés</string>
     <string name="menu_new_tab">Új fül</string>
     <string name="menu_incognito">Inkognitólap</string>
     <string name="menu_fav_add">Kedvencekhez ad</string>
     <string name="menu_share">Megosztás</string>
     <string name="menu_favorites">Kedvencek</string>
     <string name="menu_history">Előzmények</string>
+    <string name="menu_downloads">Letöltések</string>
     <string name="menu_shortcut">Parancsikon létrehozása</string>
     <string name="menu_settings">Beállítások</string>
     <string name="menu_download">Letöltés</string>
     <string name="menu_in_new_tab">Megnyitás új lapon</string>
+    <string name="menu_desktop_mode">Asztali mód</string>
     <string name="menu_search">Keresés az oldalon</string>
     <string name="menu_print">Nyomtatás</string>
     <string name="share_title">Küldés</string>
@@ -84,4 +94,9 @@
     <string name="ssl_cert_dialog_issued_on">Kiadva</string>
     <string name="ssl_cert_dialog_expires_on">Lejár</string>
     <string name="ssl_cert_dialog_dismiss">Elvetés</string>
+    <string name="location_dialog_title">Megadja a helyszínt?</string>
+    <string name="location_dialog_message">%1$s akarja használni az Ön földrajzi helyét</string>
+    <string name="location_dialog_allow">Engedélyezés</string>
+    <string name="location_dialog_block">Blokkolás</string>
+    <string name="location_dialog_cancel">Tiltás csak most</string>
 </resources>
