@@ -93,6 +93,8 @@
     <string name="ssl_cert_dialog_issued_on">Diterbitkan Pada</string>
     <string name="ssl_cert_dialog_expires_on">Kadaluarsa Pada</string>
     <string name="ssl_cert_dialog_dismiss">Tutup</string>
+    <string name="location_dialog_message">%1$s ingin menggunakan geolokasi Anda.</string>
     <string name="location_dialog_allow">Izinkan</string>
     <string name="location_dialog_block">Blokir</string>
+    <string name="location_dialog_cancel">Tolak untuk saat ini</string>
 </resources>
